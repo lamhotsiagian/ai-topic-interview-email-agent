@@ -1,7 +1,8 @@
 # AI Topic Interview Email Agent (Public Google Sheet -> Generate Q&A -> Email)
 
 This project reads the next **topic** from a **public Google Sheet (CSV)**, generates **10 interview Q&A** using OpenAI, and emails it to you via SMTP.
-<img width="800" height="308" alt="image" src="https://github.com/user-attachments/assets/99c7cabc-8648-45cb-a730-0861d0dc2770" />
+<img width="4136" height="1597" alt="AI Agent" src="https://github.com/user-attachments/assets/d961a72f-729b-457a-9e5b-56e89968ae3d" />
+
 
 
 ## 1) Google Sheet format (topics only)
