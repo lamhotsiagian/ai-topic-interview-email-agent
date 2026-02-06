@@ -10,6 +10,8 @@ Your sheet should have a header row:
 | Playwright Java |
 | REST Assured |
 | AI Agents |
+<img width="398" height="400" alt="image" src="https://github.com/user-attachments/assets/3cc40558-8e9d-4f7f-a354-20b9e5af1e56" />
+
 
 Make the sheet public and ideally **Publish to the web** so CSV access works without login.
 
@@ -44,7 +46,8 @@ Test without sheet (override topic):
 ```bash
 python main.py --topic "Playwright Java" --send
 ```
-
+Email sample:
+<img width="1011" height="684" alt="image" src="https://github.com/user-attachments/assets/39ae35e6-97ff-4069-9758-c09cadf5670e" />
 ## Notes
 - This project uses the OpenAI Responses API and Structured Outputs (JSON schema) to reliably parse Q&A.
 - `state.json` is created automatically to keep a cursor of which topic to use next.
